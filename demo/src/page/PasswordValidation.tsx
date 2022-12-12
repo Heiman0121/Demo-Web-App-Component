@@ -6,7 +6,7 @@ import {
   CheckCircleIcon,
 } from '@heroicons/react/24/outline';
 
-const PasswordInput = () => {
+const PasswordValidation = () => {
   const [password, setPassword] = useState({
     firstPassword: '',
     secondPassword: '',
@@ -231,4 +231,4 @@ const PasswordInput = () => {
   );
 };
 
-export default PasswordInput;
+export default PasswordValidation;

@@ -1,6 +1,6 @@
 import React from 'react';
 import NavBar from './ui/NavBar';
-import PasswordInput from './page/PasswordInput';
+import PasswordInput from './page/PasswordValidation';
 
 function App() {
   return (
